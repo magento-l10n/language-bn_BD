@@ -1,8 +1,8 @@
 {
-    "name": "community-engineering/language-ro_ro",
+    "name": "community-engineering/language-bn_bd",
     "version": "0.0.1",
     "type": "magento2-language",
-    "description": "ro_RO language package.",
+    "description": "bn_BD language package.",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
