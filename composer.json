@@ -1,6 +1,6 @@
 {
     "name": "community-engineering/language-bn_bd",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "type": "magento2-language",
     "description": "bn_BD language package.",
     "license": [
